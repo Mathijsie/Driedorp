@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.textchangelog {
+  text-align: center;
+  color: white;
+}
+
+.streepjechangelog {
+  height: 60vh;
+  padding: 30px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.452);
+}
